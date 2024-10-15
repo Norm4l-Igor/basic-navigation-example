@@ -5,6 +5,10 @@ body {
     background-color: white;
     height: 100%;
 }
+*{
+   
+
+}
 
 html {
     height: 100%;
@@ -82,6 +86,10 @@ main {
     color: white;
     text-align: center;
     box-sizing: border-box;
+    margin-bottom: -21px;
+    margin-right: -20px;
+    margin-top: -20px;
+    margin-left: -20px;
 }
 
 .categories ul {
@@ -90,7 +98,7 @@ main {
 }
 
 .categories ul li {
-    margin: 10px 0;
+    margin: 50px 0;
 }
 
 .categories ul li a {
